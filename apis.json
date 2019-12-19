@@ -1,0 +1,45 @@
+{
+    "name": "Maker Shed",
+    "description": "Shop the online store of Make: magazine & Maker Faire. Find great DIY projects for the whole family - 3D Printing, Arduino, Raspberry Pi, drones, robotics, STEM",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28347-maker-shed.jpg",
+    "tags": [
+        "3d printing",
+        "have api",
+        "maker"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/maker-shed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Maker Shed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28347-maker-shed.jpg",
+            "humanURL": "http:\/\/makershed.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/maker-shed-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/maker-shed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MakerShed"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/makershed.com"
+        }
+    ]
+}
